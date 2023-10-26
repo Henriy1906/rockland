@@ -29,6 +29,18 @@
         <div class="flex-1 p-4 border border-gray-300 rounded-lg">
             <img src="https://lastfm.freetls.fastly.net/i/u/ar0/4a0123fcd30da2937dc8b9ca4c80f8c8.jpg" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Exile on Main St. <br>The Rolling Stones</h2>
+        </div> 
+        <div class="flex-1 p-4 border border-gray-300 rounded-lg">
+            <img src="https://upload.wikimedia.org/wikipedia/en/9/95/Bob_Dylan_-_Highway_61_Revisited.jpg" alt="" class="w-full rounded-lg mb-4">
+            <h2 class="text-lg font-semibold text-center">Highway 61 Revisited <br>Bob Dylan</h2>
+        </div>
+        <div class="flex-1 p-4 border border-gray-300 rounded-lg">
+            <img src="https://upload.wikimedia.org/wikipedia/pt/1/1c/Pet_Sounds.jpg" alt="" class="w-full rounded-lg mb-4">
+            <h2 class="text-lg font-semibold text-center">Pet Sounds <br>Beach Boys</h2>
+        </div>
+        <div class="flex-1 p-4 border border-gray-300 rounded-lg">
+            <img src="https://img2.migalhas.com.br/_MEDPROC_/https__img.migalhas.com.br__SL__gf_base__SL__empresas__SL__MIGA__SL__imagens__SL__2022__SL__01__SL__04__SL__56c5333d-e60d-41b3-a635-cbaa6bd54487.jpg._PROC_CP65.jpg" alt="" class="w-full rounded-lg mb-4">
+            <h2 class="text-lg font-semibold text-center">Nevermind <br>Nirvana</h2>
         </div>
     </div>
 </body>
