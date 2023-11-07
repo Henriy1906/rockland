@@ -42,6 +42,10 @@
             <img src="https://img2.migalhas.com.br/_MEDPROC_/https__img.migalhas.com.br__SL__gf_base__SL__empresas__SL__MIGA__SL__imagens__SL__2022__SL__01__SL__04__SL__56c5333d-e60d-41b3-a635-cbaa6bd54487.jpg._PROC_CP65.jpg" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Nevermind <br>Nirvana</h2>
         </div>
+        <div class="p-4 border border-gray-300 rounded-lg">
+            <img src="https://m.media-amazon.com/images/I/81GQNiHJshL._UF894,1000_QL80_.jpg" alt="" class="w-full rounded-lg mb-4">
+            <h2 class="text-lg font-semibold text-center">Ten <br>Pearl Jam</h2>
+        </div>
     </div>
 </body>
 </html>
