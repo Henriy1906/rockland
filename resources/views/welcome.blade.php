@@ -11,8 +11,9 @@
     <h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
     <div class="max-w-7.5xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         <div class="p-4 border border-gray-300 rounded-lg">
-            <img src="https://upload.wikimedia.org/wikipedia/pt/6/68/Sgt_Peppers.jpg" alt="" class="w-full rounded-lg mb-4">
+            <a href="/history"><img src="https://upload.wikimedia.org/wikipedia/pt/6/68/Sgt_Peppers.jpg" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Sgt. Pepper's Lonely Hearts Club Band <br>The Beatles</h2>
+            </a>
         </div>
         <div class="p-4 border border-gray-300 rounded-lg">
             <img src="https://upload.wikimedia.org/wikipedia/pt/3/3b/Dark_Side_of_the_Moon.png" alt="" class="w-full rounded-lg mb-4">
@@ -45,6 +46,10 @@
         <div class="p-4 border border-gray-300 rounded-lg">
             <img src="https://m.media-amazon.com/images/I/81GQNiHJshL._UF894,1000_QL80_.jpg" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Ten <br>Pearl Jam</h2>
+        </div>
+        <div class="p-4 border border-gray-300 rounded-lg">
+            <img src="https://upload.wikimedia.org/wikipedia/pt/3/3d/Abbey_Road.jpg" alt="" class="w-full rounded-lg mb-4">
+            <h2 class="text-lg font-semibold text-center">Abbey Road <br>The Beatles</h2>
         </div>
     </div>
 </body>
