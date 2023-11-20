@@ -37,7 +37,9 @@
         </div>
     </div>
 </div>
-<a href="/"><button>voltar</button></a>
+<center>
+<a href="/"><button style="background-color: #007BFF; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Voltar</button></a>
+</center>
 
 
 
