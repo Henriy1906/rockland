@@ -11,7 +11,7 @@
     <h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
     <div class="max-w-7.5xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         <div class="p-4 border border-gray-300 rounded-lg">
-            <a href="/history"><img src="https://upload.wikimedia.org/wikipedia/pt/6/68/Sgt_Peppers.jpg" alt="" class="w-full rounded-lg mb-4">
+            <a href="/history"><img src="https://s2.glbimg.com/iFjGUf8-aAotWyFgN3Fc78QC_yQ=/smart/e.glbimg.com/og/ed/f/original/2016/06/01/sgt-pepper_1.jpg" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Sgt. Pepper's Lonely Hearts Club Band <br>The Beatles</h2>
             </a>
         </div>
