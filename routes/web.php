@@ -17,7 +17,7 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::get('/history', function () {
-    return view('history2');
+    return view('history');
 });
 
 Route::get('/history2', function () {
@@ -33,4 +33,22 @@ Route::get('/history4', function () {
 
 Route::get('/history5', function () {
     return view('history5');
+});
+Route::get('/history6', function () {
+    return view('history6');
+});
+
+Route::get('/history7', function () {
+    return view('history7');
+});
+Route::get('/history8', function () {
+    return view('history8');
+});
+
+Route::get('/history9', function () {
+    return view('history9');
+});
+
+Route::get('/history10', function () {
+    return view('history10');
 });
