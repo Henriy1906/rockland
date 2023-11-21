@@ -14,7 +14,7 @@
     <div class="flex">
     <div class="max-w-2xl ml-4">
         <div class="p-9 border border-gray-300 rounded-lg w-8/9">
-            <img src="https://4.bp.blogspot.com/-RQEP0Ftg1P0/Wp3gz2K5-cI/AAAAAAAAOHQ/nab_0uTIijotj1y8J-9hlElY92b-rndrgCLcBGAs/s1600/1BEATLES.jpg" alt="" class="w-full rounded-lg mb-4">
+            <img src="https://images.radiox.co.uk/images/596109?crop=1_1&width=660&format=webp&signature=D8me8E6dKDwQrHYEGS-ml8W-osw=" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Abbey Road <br>The Beatles</h2>
         </div>
     </div>

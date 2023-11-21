@@ -7,22 +7,21 @@
     <title>Rockland</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-gray-100 p-05">
-    
-<h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
-    <br>
-    <div class="flex">
-    <div class="max-w-2xl ml-4">
-        <div class="p-9 border border-gray-300 rounded-lg w-8/9">
-            <img src="https://i.scdn.co/image/ab67616d0000b273ea7caaff71dea1051d49b2fe" alt="" class="w-full rounded-lg mb-4">
-            <h2 class="text-lg font-semibold text-center">The Dark Side Of The Moon <br>Pink Floyd</h2>
-        </div>
-    </div>
+<body class="bg-gray-100 p-5">
 
-    <div class="max-w-2xl ml-auto"> <!-- Utilizando ml-auto para alinhar à direita -->
-        <div class="p-3 border border-gray-300 rounded-lg w-4/5">
-            <p class="text-justify">
-            The Dark Side of the Moon" é o oitavo álbum de estúdio da banda britânica Pink Floyd, lançado em 1º de março de 1973. Este álbum é amplamente considerado uma obra-prima do rock progressivo e é conhecido por sua inovação musical, letras introspectivas e conceito artístico coeso.
+    <h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
+    
+    <div class="flex flex-col lg:flex-row"> 
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg relative">
+                <img src="https://upload.wikimedia.org/wikipedia/pt/3/3b/Dark_Side_of_the_Moon.png" alt="" class="w-full rounded-lg mb-4">
+            </div>
+        </div>
+
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg w-full h-full">
+                <p class="text-justify">
+                The Dark Side of the Moon" é o oitavo álbum de estúdio da banda britânica Pink Floyd, lançado em 1º de março de 1973. Este álbum é amplamente considerado uma obra-prima do rock progressivo e é conhecido por sua inovação musical, letras introspectivas e conceito artístico coeso.
 
                 A ideia para o álbum começou a se formar em torno de 1971, quando o tecladista Richard Wright propôs a ideia de um álbum conceitual. A banda estava interessada em explorar temas como a insanidade, a pressão da sociedade, a vida, a morte e a alienação. Roger Waters, baixista e principal letrista da banda na época, desempenhou um papel crucial na elaboração das letras que tratavam desses temas.
 
@@ -32,20 +31,18 @@
 
                 A estrutura do álbum é contínua, com músicas fluindo uma para a outra, criando uma experiência auditiva coesa. Algumas das faixas mais conhecidas incluem "Money", "Time", "Us and Them" e "Brain Damage". As letras exploram questões profundas da existência humana, enquanto a música incorpora uma ampla gama de estilos, desde o rock progressivo até elementos de jazz e música eletrônica.
 
-                "The Dark Side of the Moon" é frequentemente citado como um álbum conceitual por excelência e é apreciado não apenas por sua musicalidade, mas também por sua exploração de temas filosóficos e psicológicos. Ao longo dos anos, tornou-se um clássico atemporal e continua a ser uma influência significativa na música contemporânea.
-            </p>
+                "The Dark Side of the Moon" é frequentemente citado como um álbum conceitual por excelência e é apreciado não apenas por sua musicalidade, mas também por sua exploração de temas filosóficos e psicológicos. Ao longo dos anos, tornou-se um clássico atemporal.
+                </p>
+            </div>
         </div>
     </div>
-</div>
-<center>
-<a href="/"><button style="background-color: #007BFF; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Voltar</button></a>
-</center>
 
-
-
-
-
-
-</div>
+    <div class="text-center"> 
+        <a href="/" class="inline-block mt-4">
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+                Voltar
+            </button>
+        </a>
+    </div>
 </body>
 </html>

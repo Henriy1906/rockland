@@ -21,7 +21,7 @@
         </a>
         </div>
         <div class="p-4 border border-gray-300 rounded-lg">
-        <a href="/history3"><img src="https://upload.wikimedia.org/wikipedia/pt/4/4b/LedZeppelinIV.jpg" alt="" class="w-full rounded-lg mb-4">
+        <a href="/history3"><img src="https://http2.mlstatic.com/D_NQ_NP_708537-MLB71903556998_092023-O.webp" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Led Zeppelin IV <br>Led Zeppelin</h2>
         </a>
         </div>
@@ -56,7 +56,7 @@
         </a>
         </div>
         <div class="p-4 border border-gray-300 rounded-lg">
-        <a href="/history10"> <img src="https://upload.wikimedia.org/wikipedia/pt/3/3d/Abbey_Road.jpg" alt="" class="w-full rounded-lg mb-4">
+        <a href="/history10"> <img src="https://images.radiox.co.uk/images/596109?crop=1_1&width=660&format=webp&signature=D8me8E6dKDwQrHYEGS-ml8W-osw=" alt="" class="w-full rounded-lg mb-4">
             <h2 class="text-lg font-semibold text-center">Abbey Road <br>The Beatles</h2>
         </a>
         </div>

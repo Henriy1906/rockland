@@ -7,24 +7,21 @@
     <title>Rockland</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-gray-100 p-05">
-    
+<body class="bg-gray-100 p-5">
+
     <h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
-
-
-    <br>
-    <div class="flex">
-    <div class="max-w-2xl ml-4">
-        <div class="p-9 border border-gray-300 rounded-lg w-8/9">
-            <img src="https://lastfm.freetls.fastly.net/i/u/ar0/4a0123fcd30da2937dc8b9ca4c80f8c8.jpg" alt="" class="w-full rounded-lg mb-4">
-            <h2 class="text-lg font-semibold text-center">Exile on Main St. <br>The Rolling Stones</h2>
+    
+    <div class="flex flex-col lg:flex-row"> 
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg relative">
+                <img src="https://lastfm.freetls.fastly.net/i/u/ar0/4a0123fcd30da2937dc8b9ca4c80f8c8.jpg" alt="" class="w-full rounded-lg mb-4">
+            </div>
         </div>
-    </div>
 
-    <div class="max-w-2xl ml-auto"> <!-- Utilizando ml-auto para alinhar à direita -->
-        <div class="p-3 border border-gray-300 rounded-lg w-4/5">
-            <p class="text-justify">
-            "Exile on Main St." é o décimo álbum de estúdio da banda britânica de rock The Rolling Stones, lançado em maio de 1972. Este álbum é frequentemente considerado um dos melhores álbuns da história do rock e é elogiado por sua diversidade musical e crueza. A história por trás do álbum está envolta em uma série de eventos tumultuados.
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg w-full h-full">
+                <p class="text-justify">
+                "Exile on Main St." é o décimo álbum de estúdio da banda britânica de rock The Rolling Stones, lançado em maio de 1972. Este álbum é frequentemente considerado um dos melhores álbuns da história do rock e é elogiado por sua diversidade musical e crueza. A história por trás do álbum está envolta em uma série de eventos tumultuados.
 
 As gravações para "Exile on Main St." ocorreram em diferentes locais, principalmente na França, em uma villa chamada Nellcôte, onde o guitarrista Keith Richards alugou uma casa. As sessões foram realizadas durante um período de vários meses em 1971, marcado por tensões, problemas legais e um estilo de vida excessivo por parte da banda.
 
@@ -34,22 +31,18 @@ A atmosfera durante as gravações foi caótica, com os membros da banda muitas 
 
 Após o lançamento, o álbum foi inicialmente recebido com críticas mistas, mas ao longo do tempo ganhou reconhecimento e se tornou um clássico. A crueza e autenticidade de "Exile on Main St." capturam a essência do rock 'n' roll, e suas músicas continuam a ser apreciadas por fãs e críticos até hoje.
 
-A desordem durante as gravações de "Exile on Main St." contribuiu para o mito em torno do álbum e o tornou um símbolo de uma era selvagem e criativa da história do rock. Apesar dos desafios enfrentados durante sua produção, o álbum é amplamente considerado uma das maiores realizações dos Rolling Stones e um ponto alto na discografia da banda. </p>
+A desordem durante as gravações de "Exile on Main St." contribuiu para o mito em torno do álbum e o tornou um símbolo de uma era selvagem e criativa da história do rock. Apesar dos desafios enfrentados durante sua produção, o álbum é amplamente considerado uma das maiores realizações dos Rolling Stones e um ponto alto na discografia da banda.
+                </p>
+            </div>
         </div>
     </div>
-</div>
-<center>
-<a href="/"><button style="background-color: #007BFF; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Voltar</button></a>
-</center>
 
-
-
-
-
-
-
-
-
-</div>
+    <div class="text-center"> 
+        <a href="/" class="inline-block mt-4">
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+                Voltar
+            </button>
+        </a>
+    </div>
 </body>
 </html>

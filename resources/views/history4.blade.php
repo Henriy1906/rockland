@@ -7,22 +7,21 @@
     <title>Rockland</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
-<body class="bg-gray-100 p-05">
-    
-    <h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
-    <br>
-    <div class="flex">
-    <div class="max-w-2xl ml-4">
-        <div class="p-9 border border-gray-300 rounded-lg w-8/9">
-            <img src="https://www.slantmagazine.com/wp-content/uploads/2007/11/joshuatree.jpg" alt="" class="w-full rounded-lg mb-4">
-            <h2 class="text-lg font-semibold text-center">The Joshua Tree <br>U2</h2>
-        </div>
-    </div>
+<body class="bg-gray-100 p-5">
 
-    <div class="max-w-2xl ml-auto"> <!-- Utilizando ml-auto para alinhar à direita -->
-        <div class="p-3 border border-gray-300 rounded-lg w-4/5">
-            <p class="text-justify">
-            "The Joshua Tree" é o quinto álbum de estúdio da banda irlandesa de rock U2, lançado em 9 de março de 1987. O álbum é altamente aclamado e é frequentemente considerado um dos melhores álbuns da história do rock. Sua criação e lançamento representaram um momento crucial na carreira do U2.
+    <h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
+    
+    <div class="flex flex-col lg:flex-row"> 
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg relative">
+                <img src="https://www.slantmagazine.com/wp-content/uploads/2007/11/joshuatree.jpg" alt="" class="w-full rounded-lg mb-4">
+            </div>
+        </div>
+
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg w-full h-full">
+                <p class="text-justify">
+                "The Joshua Tree" é o quinto álbum de estúdio da banda irlandesa de rock U2, lançado em 9 de março de 1987. O álbum é altamente aclamado e é frequentemente considerado um dos melhores álbuns da história do rock. Sua criação e lançamento representaram um momento crucial na carreira do U2.
 
 A história por trás de "The Joshua Tree" está relacionada às experiências da banda durante sua turnê anterior, "The Unforgettable Fire Tour". Durante essa turnê, o U2 ficou profundamente impressionado com a paisagem americana, especialmente o deserto do sudoeste dos Estados Unidos. Essa influência se tornou evidente nas letras e na sonoridade do álbum subsequente.
 
@@ -32,20 +31,18 @@ O título "The Joshua Tree" refere-se a uma árvore específica encontrada no de
 
 O álbum inclui alguns dos maiores sucessos do U2, como "With or Without You", "I Still Haven't Found What I'm Looking For" e "Where the Streets Have No Name". Essas músicas se tornaram hinos da banda e contribuíram para o enorme sucesso comercial e crítico de "The Joshua Tree".
 
-Lançado em um momento em que o U2 já era uma banda estabelecida, "The Joshua Tree" catapultou-os ainda mais para a fama global e solidificou sua posição como uma das maiores bandas de rock do mundo. O álbum ganhou vários prêmios, incluindo o Grammy de Álbum do Ano em 1988, e continua a ser um trabalho influente e adorado por fãs de música em todo o mundo.</p>
+Lançado em um momento em que o U2 já era uma banda estabelecida, "The Joshua Tree" catapultou-os ainda mais para a fama global e solidificou sua posição como uma das maiores bandas de rock do mundo. O álbum ganhou vários prêmios, incluindo o Grammy de Álbum do Ano em 1988, e continua a ser um trabalho influente e adorado por fãs de música em todo o mundo.
+                </p>
+            </div>
         </div>
     </div>
-</div>
-<center>
-<a href="/"><button style="background-color: #007BFF; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Voltar</button></a>
-</center>
 
-
-
-
-
-
-
-</div>
+    <div class="text-center"> 
+        <a href="/" class="inline-block mt-4">
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+                Voltar
+            </button>
+        </a>
+    </div>
 </body>
 </html>
