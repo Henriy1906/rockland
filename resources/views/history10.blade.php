@@ -11,17 +11,17 @@
     
     <h1 class="text-3xl font-bold text-center mb-6">ROCKLAND</h1>
     <br>
-    <div class="flex">
-    <div class="max-w-2xl ml-4">
-        <div class="p-9 border border-gray-300 rounded-lg w-8/9">
+    <div class="flex flex-col lg:flex-row"> 
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg relative">
             <img src="https://images.radiox.co.uk/images/596109?crop=1_1&width=660&format=webp&signature=D8me8E6dKDwQrHYEGS-ml8W-osw=" alt="" class="w-full rounded-lg mb-4">
-            <h2 class="text-lg font-semibold text-center">Abbey Road <br>The Beatles</h2>
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/0ETFjACtuP2ADo6LFhL6HN?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
     </div>
 
-    <div class="max-w-2xl ml-auto"> <!-- Utilizando ml-auto para alinhar à direita -->
-        <div class="p-3 border border-gray-300 rounded-lg w-4/5">
-            <p class="text-justify">
+    <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg w-full h-full">
+                <p class="text-justify">
             "Abbey Road" é o décimo primeiro álbum de estúdio da lendária banda britânica The Beatles, lançado em 26 de setembro de 1969 no Reino Unido e em 1º de outubro de 1969 nos Estados Unidos. Este álbum é amplamente considerado uma obra-prima e é um dos trabalhos mais icônicos dos Beatles.
 
 A história por trás de "Abbey Road" está envolvida em um momento peculiar na história da banda. Embora tenha sido o último álbum gravado pelos Beatles, "Let It Be" foi o último a ser lançado. As sessões de gravação de "Abbey Road" começaram em julho de 1969 nos estúdios Abbey Road, em Londres, e foram marcadas por uma colaboração mais harmoniosa em comparação com as sessões anteriores.
@@ -38,9 +38,13 @@ A icônica imagem da capa e a sequência contínua de músicas na segunda metade
         </div>
     </div>
 </div>
-<center>
-<a href="/"><button style="background-color: #007BFF; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Voltar</button></a>
-</center>
+<div class="text-center"> 
+        <a href="/" class="inline-block mt-4">
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+                Voltar
+            </button>
+        </a>
+    </div>
 
 
 

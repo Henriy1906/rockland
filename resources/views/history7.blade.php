@@ -13,17 +13,16 @@
 
 
     <br>
-    <div class="flex">
-    <div class="max-w-2xl ml-4">
-        <div class="p-9 border border-gray-300 rounded-lg w-8/9">
+    <div class="flex flex-col lg:flex-row"> 
+        <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg relative">
             <img src="https://upload.wikimedia.org/wikipedia/pt/1/1c/Pet_Sounds.jpg" alt="" class="w-full rounded-lg mb-4">
-            <h2 class="text-lg font-semibold text-center">Pet Sounds <br>Beach Boys</h2>
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/2CNEkSE8TADXRT2AzcEt1b?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
     </div>
-
-    <div class="max-w-2xl ml-auto"> <!-- Utilizando ml-auto para alinhar à direita -->
-        <div class="p-3 border border-gray-300 rounded-lg w-4/5">
-            <p class="text-justify">
+    <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
+            <div class="p-5 border border-gray-300 rounded-lg w-full h-full">
+                <p class="text-justify">
             "Pet Sounds" é o décimo primeiro álbum de estúdio da banda norte-americana de rock The Beach Boys, lançado em 16 de maio de 1966. Este álbum é amplamente considerado um marco na história da música pop e um dos álbuns mais influentes já lançados.
 
 A história por trás de "Pet Sounds" envolve principalmente Brian Wilson, membro fundador e principal compositor dos Beach Boys. Depois de parar de se apresentar ao vivo com a banda em 1964, Brian concentrou-se em compor e produzir músicas em estúdio. Inspirado pelo álbum "Rubber Soul" dos Beatles, Brian Wilson decidiu criar um álbum que fosse mais do que apenas uma coleção de singles, mas uma obra coesa.
@@ -37,9 +36,13 @@ Embora "Pet Sounds" tenha recebido críticas mistas inicialmente e não tenha al
 O álbum influenciou inúmeras bandas e músicos, incluindo os Beatles, que, por sua vez, influenciaram Brian Wilson. "Pet Sounds" é um testemunho da visão artística de Brian Wilson e sua busca por inovação na música pop. Ele continua a ser uma obra reverenciada por sua originalidade, complexidade musical e impacto duradouro na música popular.</div>
     </div>
 </div>
-<center>
-<a href="/"><button style="background-color: #007BFF; color: #fff; padding: 10px 20px; border: none; border-radius: 5px; font-size: 16px; cursor: pointer;">Voltar</button></a>
-</center>
+<div class="text-center"> 
+        <a href="/" class="inline-block mt-4">
+            <button class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-700 focus:outline-none focus:shadow-outline-blue active:bg-blue-800">
+                Voltar
+            </button>
+        </a>
+    </div>
 
 
 

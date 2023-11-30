@@ -15,7 +15,7 @@
         <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
             <div class="p-5 border border-gray-300 rounded-lg relative">
                 <img src="https://http2.mlstatic.com/D_NQ_NP_708537-MLB71903556998_092023-O.webp" alt="" class="w-full rounded-lg mb-4">
-            </div>
+                <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5EyIDBAqhnlkAHqvPRwdbX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> </div>
         </div>
 
         <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 

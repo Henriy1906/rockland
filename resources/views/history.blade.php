@@ -15,6 +15,7 @@
         <div class="max-w-2xl w-full lg:w-1/2 mx-auto mb-4 lg:mb-0"> 
             <div class="p-5 border border-gray-300 rounded-lg relative">
                 <img src="https://s2.glbimg.com/iFjGUf8-aAotWyFgN3Fc78QC_yQ=/smart/e.glbimg.com/og/ed/f/original/2016/06/01/sgt-pepper_1.jpg" alt="" class="w-full rounded-lg mb-4">
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6QaVfG1pHYl1z15ZxkvVDW?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
             </div>
         </div>
 
@@ -33,6 +34,7 @@ Musicalmente, o álbum abrange uma ampla gama de estilos, desde o rock psicodél
 
 "Sgt. Pepper's" foi um grande sucesso comercial e de crítica. Ganhou quatro prêmios Grammy em 1968, incluindo Álbum do Ano, e continua a ser reconhecido como um dos álbuns mais influentes da história da música. Sua influência estende-se muito além do mundo do rock, moldando o curso da música popular e inspirando gerações de músicos.
                 </p>
+                
             </div>
         </div>
     </div>
